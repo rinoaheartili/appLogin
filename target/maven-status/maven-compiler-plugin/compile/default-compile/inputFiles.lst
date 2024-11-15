@@ -1,0 +1,7 @@
+/home/alberto/NetBeansProjects/appLogin/src/main/java/modelo/Empleado.java
+/home/alberto/NetBeansProjects/appLogin/src/main/java/controller/Login.java
+/home/alberto/NetBeansProjects/appLogin/src/main/java/controller/Registro.java
+/home/alberto/NetBeansProjects/appLogin/src/main/java/persistencia/ConexionAzureSQL.java
+/home/alberto/NetBeansProjects/appLogin/src/main/java/controller/BorrarUsuario.java
+/home/alberto/NetBeansProjects/appLogin/src/main/java/dao/EmpleadoDAO.java
+/home/alberto/NetBeansProjects/appLogin/src/main/java/controller/muestraEmpleados.java
